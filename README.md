@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Gerardo Parra!
 
-- 👀 I’m interested in Data Science, Machine Learning and Blockchain technology, Kernel Development, and Systems Programming.
+- 👀 I’m interested in Data Science, Machine Learning, Blockchain, Front and Backend Web Development.
 
-- 🌱 I’m currently learning Web3 concepts, Solidity, JS, ML, Python, and Web Devleopment.
+- 🌱 I’m currently learning Web3 concepts, Solidity, JS, ML, Python, REACT, Redux and Bootstrap.
 
 - 👨‍🎓 Currently attending Florida International University.
 
