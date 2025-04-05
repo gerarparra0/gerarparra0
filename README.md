@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Data Science, Machine Learning, Blockchain, Front and Backend Web Development.
 
-- 🌱 I’m currently learning Web3 concepts, Solidity, Go, JS, ML, Python, REACT, Redux and Bootstrap.
+- 🌱 I’m currently learning Web3 concepts, Solidity, Go, Zig, JS, ML, Python, REACT, Redux and Bootstrap.
 
 - 📫 You can reach me at gerarparra0@gmail.com
 
