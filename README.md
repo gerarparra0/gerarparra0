@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Gerardo Parra!
 
-- 👀 I’m interested in Data Science, Machine Learning, Blockchain, Front and Backend Web Development.
-
-- 🌱 I’m currently learning Web3 concepts, Solidity, Go, Zig, JS, ML, Python, REACT, Redux and Bootstrap.
+- 👀 I’m interested in Data Science, Machine Learning, Full stack development
 
 - 📫 You can reach me at gerarparra0@gmail.com
 
